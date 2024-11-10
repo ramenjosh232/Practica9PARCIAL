@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/joshu/nginx-apache-lb/web_content/apache1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/joshu/nginx-apache-lb","disabled":false,"__vagrantfile":true}}}
